@@ -1,0 +1,27 @@
+@import "./styles/variables.scss";
+
+.container {
+    height: 100vh;
+
+    .header {        
+        font-size: $font-size-xxlarge;
+        background-color: $color-yellow;
+        font-weight: bold;
+    }
+
+    .headerContainer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;        
+    }
+
+    .content {
+        height: 100%;
+        padding: 30px;
+    }
+
+    .footer {
+        background-color: $color-grey;        
+        text-align: center;
+    }
+}

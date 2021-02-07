@@ -1,0 +1,24 @@
+@import "../../styles/variables.scss";
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px
+}
+
+.card {
+    width: 400px;
+}
+
+.inputNumber {
+    margin-top: 10px !important;
+}
+
+.price {
+    font-size: $font-size-xlarge;
+    font-weight: bold;
+}
+
+.addToBasket {
+    margin-top: 20px;
+}
