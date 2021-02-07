@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KRiUc238W1A+hsf73oYZUClt3r1JoQhwxCfOJR1RWOYPdvOj/C3sEqhIsf8aWXEbwxTQ5NcXx7k7sCKfkFzTRg==",
+  "dgSpecHash": "DWXNswCl9tVUE8V8Jna3HwXSCUkFrFRjxTJbEXBTZzcnyc1CxpQhHOry8Wo3b4D1yxUQDOiyN3kjSmBwilGIwQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Shop\\ShopApi\\ShopApi.Tests\\ShopApi.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi.Tests\\ShopApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomas\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

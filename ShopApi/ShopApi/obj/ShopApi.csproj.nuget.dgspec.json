@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Shop\\ShopApi\\ShopApi\\ShopApi.csproj": {}
+    "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\ShopApi.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Shop\\ShopApi\\ShopApi\\ShopApi.csproj": {
+    "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\ShopApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
+        "projectUniqueName": "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
         "projectName": "ShopApi",
-        "projectPath": "C:\\Projects\\Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
+        "projectPath": "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
         "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Shop\\ShopApi\\ShopApi\\obj\\",
+        "outputPath": "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",

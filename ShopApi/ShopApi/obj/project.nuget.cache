@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNr6UmbkfR2xEI4BPVELg1nZ/f09hnD8N35IwKzanog1ErwiVgbyWbgTvRR3T1uHScSLtzSXZ1WDzsdHysWFiw==",
+  "dgSpecHash": "ZwbS24y6rw7giXSFEAOOKWgTwgHh7m8HIOC1hYy2jJ80EBR2o3KApH25nkjIQlOp14EH1/AerJzyj1t8ZMpDqA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
+  "projectFilePath": "C:\\Projects\\Shop\\GoodEnergy_Shop\\ShopApi\\ShopApi\\ShopApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
